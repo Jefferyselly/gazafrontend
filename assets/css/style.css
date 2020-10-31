@@ -1466,3 +1466,22 @@ body.mobile-nav-active #mobile-nav-toggle i {
   letter-spacing: 0;
   color: #005859;
 }
+
+/***************************************************
+#my classes 
+*************************************************/
+.primary-green-color{
+  color : #005859;
+}
+.primary-red-color{
+  color : #ED4C1E;
+}
+.primary-green-bg{
+  background : #005859;
+}
+.primary-red-bg{
+  background : #dc3545;
+}
+.primary-red-bg-2{
+  background-color: #ED4C1E;
+}
