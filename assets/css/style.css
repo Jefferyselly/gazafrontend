@@ -1485,3 +1485,17 @@ body.mobile-nav-active #mobile-nav-toggle i {
 .primary-red-bg-2{
   background-color: #ED4C1E;
 }
+hr{
+  border : 0.5px solid #FFAB00
+}
+
+#achievement .card{
+  background: rgba(255, 255, 255, 0.1);
+  color : #fff;
+}
+#achievement .card-text{
+  color : white;
+}
+#affiliate-text {
+  background: rgba(5, 18, 18, 0.03);
+}
